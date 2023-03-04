@@ -10,5 +10,8 @@ EditorBuildSettings:
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/Under.unity
-    guid: b378614925298474f8f9cd9656c7c435
+    guid: 248e5bbee3e6b3e46abca718eba3b6b9
+  - enabled: 1
+    path: Assets/Scenes/Sinus.unity
+    guid: c181e1d0f8100e14797c07924abf5c4b
   m_configObjects: {}
